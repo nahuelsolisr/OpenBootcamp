@@ -1,0 +1,15 @@
+C:\MisProyectos\Cursos\2.Ejercicio2\bin\Debug\net6.0\2.Ejercicio2.exe
+C:\MisProyectos\Cursos\2.Ejercicio2\bin\Debug\net6.0\2.Ejercicio2.deps.json
+C:\MisProyectos\Cursos\2.Ejercicio2\bin\Debug\net6.0\2.Ejercicio2.runtimeconfig.json
+C:\MisProyectos\Cursos\2.Ejercicio2\bin\Debug\net6.0\2.Ejercicio2.dll
+C:\MisProyectos\Cursos\2.Ejercicio2\bin\Debug\net6.0\2.Ejercicio2.pdb
+C:\MisProyectos\Cursos\2.Ejercicio2\obj\Debug\net6.0\2.Ejercicio2.csproj.AssemblyReference.cache
+C:\MisProyectos\Cursos\2.Ejercicio2\obj\Debug\net6.0\2.Ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\MisProyectos\Cursos\2.Ejercicio2\obj\Debug\net6.0\2.Ejercicio2.AssemblyInfoInputs.cache
+C:\MisProyectos\Cursos\2.Ejercicio2\obj\Debug\net6.0\2.Ejercicio2.AssemblyInfo.cs
+C:\MisProyectos\Cursos\2.Ejercicio2\obj\Debug\net6.0\2.Ejercicio2.csproj.CoreCompileInputs.cache
+C:\MisProyectos\Cursos\2.Ejercicio2\obj\Debug\net6.0\2.Ejercicio2.dll
+C:\MisProyectos\Cursos\2.Ejercicio2\obj\Debug\net6.0\refint\2.Ejercicio2.dll
+C:\MisProyectos\Cursos\2.Ejercicio2\obj\Debug\net6.0\2.Ejercicio2.pdb
+C:\MisProyectos\Cursos\2.Ejercicio2\obj\Debug\net6.0\2.Ejercicio2.genruntimeconfig.cache
+C:\MisProyectos\Cursos\2.Ejercicio2\obj\Debug\net6.0\ref\2.Ejercicio2.dll
