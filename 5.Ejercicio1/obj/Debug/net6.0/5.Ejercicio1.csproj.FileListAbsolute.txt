@@ -1,0 +1,15 @@
+C:\MisProyectos\Cursos\5.Ejercicio1\bin\Debug\net6.0\5.Ejercicio1.exe
+C:\MisProyectos\Cursos\5.Ejercicio1\bin\Debug\net6.0\5.Ejercicio1.deps.json
+C:\MisProyectos\Cursos\5.Ejercicio1\bin\Debug\net6.0\5.Ejercicio1.runtimeconfig.json
+C:\MisProyectos\Cursos\5.Ejercicio1\bin\Debug\net6.0\5.Ejercicio1.dll
+C:\MisProyectos\Cursos\5.Ejercicio1\bin\Debug\net6.0\5.Ejercicio1.pdb
+C:\MisProyectos\Cursos\5.Ejercicio1\obj\Debug\net6.0\5.Ejercicio1.csproj.AssemblyReference.cache
+C:\MisProyectos\Cursos\5.Ejercicio1\obj\Debug\net6.0\5.Ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\MisProyectos\Cursos\5.Ejercicio1\obj\Debug\net6.0\5.Ejercicio1.AssemblyInfoInputs.cache
+C:\MisProyectos\Cursos\5.Ejercicio1\obj\Debug\net6.0\5.Ejercicio1.AssemblyInfo.cs
+C:\MisProyectos\Cursos\5.Ejercicio1\obj\Debug\net6.0\5.Ejercicio1.csproj.CoreCompileInputs.cache
+C:\MisProyectos\Cursos\5.Ejercicio1\obj\Debug\net6.0\5.Ejercicio1.dll
+C:\MisProyectos\Cursos\5.Ejercicio1\obj\Debug\net6.0\refint\5.Ejercicio1.dll
+C:\MisProyectos\Cursos\5.Ejercicio1\obj\Debug\net6.0\5.Ejercicio1.pdb
+C:\MisProyectos\Cursos\5.Ejercicio1\obj\Debug\net6.0\5.Ejercicio1.genruntimeconfig.cache
+C:\MisProyectos\Cursos\5.Ejercicio1\obj\Debug\net6.0\ref\5.Ejercicio1.dll
